@@ -1,0 +1,64 @@
+[
+    {
+        "id":1,
+        "titulo": "Superheroes",
+        "descripcion": "Una encuesta hecha para conocer el superheroe de mayor agrado publico",
+        "preguntas":[
+            {
+                "id":1,
+                "pregunta":"¿Cual es tu superheroe favorito de DC?",
+                "opciones":[
+                        {"id":1, "texto":"Batman"},
+                        {"id":2, "texto":"Superman"},
+                        {"id":3, "texto":"Flash"},
+                        {"id":4, "texto":"Mujer Maravilla"},
+                        {"id":5, "texto":"Zatanna"},
+                        {"id":6, "texto":"Batwoman"}
+                ]
+            },
+            {
+                "id":2,
+                "pregunta":"¿Cual es tu superheroe favorito de Marvel?",
+                "opciones":[
+                        {"id":7, "texto":"Iron Man"},
+                        {"id":8, "texto":"Capitan America"},
+                        {"id":9, "texto":"Falcon"},
+                        {"id":10, "texto":"Black Widow"},
+                        {"id":11, "texto":"Ms. Marvel"},
+                        {"id":12, "texto":"Capitana Marvel"}
+                ]
+            }
+        ]
+    },
+    {
+        "id":2,
+        "titulo": "Villanos",
+        "descripcion": "Una encuesta hecha para conocer el villano de mayor agrado publico",
+        "preguntas":[
+            {
+                "id":3,
+                "pregunta":"¿Cual es tu villano favorito de DC?",
+                "opciones":[
+                        {"id":13, "texto":"Joker"},
+                        {"id":14, "texto":"Doomsday"},
+                        {"id":15, "texto":"Flash Reverso"},
+                        {"id":16, "texto":"Cheetah"},
+                        {"id":17, "texto":"Doctor Luz"},
+                        {"id":18, "texto":"Hush"}
+                ]
+            },
+            {
+                "id":4,
+                "pregunta":"¿Cual es tu villano favorito de Marvel?",
+                "opciones":[
+                        {"id":19, "texto":"El Mandarín"},
+                        {"id":20, "texto":"Cráneo Rojo"},
+                        {"id":21, "texto":"Doctor Doom"},
+                        {"id":22, "texto":"Yelena Belova"},
+                        {"id":23, "texto":"Agatha Harkness"},
+                        {"id":24, "texto":"Moonstone"}
+                ]
+            }
+        ]
+    }
+]
